@@ -19,3 +19,9 @@ button {
   cursor: pointer;
   border-radius: 10px;
 }
+button:hover {
+  background: #e9ecef;
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
